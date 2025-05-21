@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Computers",
+    "keywords": ["c", "computer", "web", "code", "tech", "C"]
+  },
+  {
+    "name": "Philosophy",
+    "keywords": ["P", "p", "logic", "thinking", "philosophy"]
+  },
+  {
+    "name": "Romance",
+    "keywords": ["R", "r", "love", "romance", "heart"]
+  }
+]
